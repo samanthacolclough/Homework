@@ -1,5 +1,3 @@
-# Homework
-
 file = open('song.txt', 'r')
 
 print(file)
@@ -20,4 +18,3 @@ file.write("Picking up the pieces of my life without you on my mind \n")
 file.write("I'm still standing (Yeah, yeah, yeah) \n")
 file.write("I'm still standing (Yeah, yeah, yeah) \n")
 file.close()
-
